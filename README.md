@@ -58,5 +58,5 @@ The dashboard includes the following key performance indicators and visualizatio
 3. Interact with slicers (Device Type, Browser, Month, Traffic Source) to explore various dimensions.
 
 ## Dashboard Preview
-
+![image alt]()
 
