@@ -58,5 +58,5 @@ The dashboard includes the following key performance indicators and visualizatio
 3. Interact with slicers (Device Type, Browser, Month, Traffic Source) to explore various dimensions.
 
 ## Dashboard Preview
-![image alt](https://github.com/ShravanyaNaik/Website-Analytic-Dashboard/blob/a3f7bbbf917b9e1e9112f7ee1ca7ecdf00921a14/README.md)
+![image alt](https://github.com/ShravanyaNaik/Website-Analytic-Dashboard/blob/a3f7bbbf917b9e1e9112f7ee1ca7ecdf00921a14/Image.png)
 
